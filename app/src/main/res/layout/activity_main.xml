@@ -15,4 +15,12 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="117dp"
+        android:layout_height="23dp"
+        android:text="Stanislav Garshnik"
+        tools:layout_editor_absoluteX="147dp"
+        tools:layout_editor_absoluteY="387dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
